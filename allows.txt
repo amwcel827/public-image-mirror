@@ -16,6 +16,7 @@ docker.io/budtmo/docker-android
 docker.io/calico/**
 docker.io/clickhouse/**
 docker.io/coredns/**
+docker.io/hslr/**
 docker.io/csiplugin/**
 docker.io/curlimages/**
 docker.io/deepflowce/**
